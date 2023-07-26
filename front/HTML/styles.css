@@ -8,7 +8,7 @@
 
 .row{
     width: 70%;
-    margin : 80px 80px 70px 70px;
+    /* margin : 80px 80px 70px 70px; */
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     margin-left : 250px;
     opacity : 80%;
