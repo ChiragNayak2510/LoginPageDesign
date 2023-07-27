@@ -41,7 +41,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $_SESSION['contact'] = $row['contact'];
                 $_SESSION['age'] = $row['age'];
                 $_SESSION['signed_in'] = true;
-
                 // Redirect to the profile page
             } else {
                 echo '
